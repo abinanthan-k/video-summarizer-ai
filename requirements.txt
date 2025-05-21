@@ -1,0 +1,6 @@
+moviepy
+openai-whisper
+langchain
+langchain-groq
+python-dotenv
+streamlit
